@@ -11,7 +11,7 @@ setup(
       version=version,
       description='Sitech django middlewares',
       long_description=open(os.path.join(base_dir, "README.md")).read(),
-      url='https://github.com/sitmena/sitech-django-middlewares',
+      url='https://github.com/Tamatem-Plus/sitech-django-middlewares',
       classifiers=[
           'Environment :: Web Environment',
           'Framework :: Django',
